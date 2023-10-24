@@ -2,15 +2,15 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #007500;
+        fill: #569900;
       }
 
       .cls-2 {
-        fill: #00C200;
+        fill: #90ff00;
       }
 
       .cls-3 {
-        fill: #00E600;
+        fill: #a6ff33;
       }
 
       .cls-4 {
@@ -22,7 +22,7 @@
       }
 
       .cls-6 {
-        fill: #00C700;
+        fill: #94ff0a;
       }
 
       .cls-7 {
