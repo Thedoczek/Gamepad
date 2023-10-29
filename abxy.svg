@@ -2,19 +2,19 @@
   <defs>
     <style>
       .cls-1a {
-        fill: #186000;
+        fill: #003660;
       }
 
       .cls-1b {
-        fill: #600018;
+        fill: #003660;
       }
 
       .cls-1x {
-        fill: #001860;
+        fill: #003660;
       }
 
       .cls-1y {
-        fill: #604800;
+        fill: #003660;
       }
 
       .cls-2 {
@@ -22,19 +22,19 @@
       }
 
       .cls-3, .cls-8{
-        fill: #40ff00;
+        fill: #6cc000;
       }
 
       .cls-4, .cls-9 {
-        fill: #ff0040;
+        fill: #6cc000;
       }
 
       .cls-5, .cls-10 {
-        fill: #ffc000;
+        fill: #6cc000;
       }
 
       .cls-6, .cls-11 {
-        fill: #0040ff;
+        fill: #6cc000;
       }
 
       .cls-7 {
