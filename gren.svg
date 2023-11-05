@@ -62,19 +62,19 @@
       }
       
       .cls-13a {
-        fill: #1a6800;
+        fill: #3a6800;
       }
       
       .cls-13b {
-        fill: #68001a;
+        fill: #3a6800;
       }
       
       .cls-13x {
-        fill: #003a68;
+        fill: #3a6800;
       }
       
       .cls-13y {
-        fill: #684e00;
+        fill: #3a6800;
       }
 
       .cls-14, .cls-18 {
@@ -82,19 +82,19 @@
       }
       
       .cls-18a {
-        fill: #0a2800;
+        fill: #001628;
       }
       
       .cls-18b {
-        fill: #28000a;
+        fill: #001628;
       }
       
       .cls-18x {
-        fill: #000a28;
+        fill: #001628;
       }
       
       .cls-18y {
-        fill: #281e00;
+        fill: #001628;
       }
 
       .cls-14 {
