@@ -5,7 +5,7 @@
 } 
 
 .xbox#gamepad-0 .button {
-    background-image: url(https://thedoczek.github.io/Gamepad/bluabxy.svg) !important;
+    background-image: url(https://thedoczek.github.io/Gamepad/grenabxy.svg) !important;
 }
 
 .xbox#gamepad-0 .stick {
@@ -19,7 +19,7 @@
 } 
 
 .xbox#gamepad-1 .button {
-    background-image: url(https://thedoczek.github.io/Gamepad/grenabxy.svg) !important;
+    background-image: url(https://thedoczek.github.io/Gamepad/bluabxy.svg) !important;
 }
 
 .xbox#gamepad-1 .stick {
