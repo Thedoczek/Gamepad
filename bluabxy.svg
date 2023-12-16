@@ -35,13 +35,13 @@
     <style
        id="style1">
 .cls-8, .cls-9, .cls-10, .cls-11 { 
-    fill:#002643;
+    fill:#00233e;
 }
 .cls-3, .cls-4, .cls-5, .cls-6 { 
-    fill:#65b300;
+    fill:#5aa000;
 }
 .cls-1 { 
-    fill:#002643;
+    fill:#00233e;
 }
 .cls-2 { isolation: isolate; }
 .cls-7 { 
